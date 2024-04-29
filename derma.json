@@ -1,0 +1,412 @@
+{
+    "products": [
+        {
+            "id": 496,
+            "brand": "Dermatique",
+            "name": "Best Seller Lightening Bundle",
+            "price": 2360,
+            "price_sign": "EGP",
+            "currency": "In Stock",
+            "image_link": "https://i0.wp.com/Dermatiquelabs.com/wp-content/uploads/2023/10/Best-seller-Lightening-Bundle.jpg?resize=314%2C377&ssl=1",
+            "description":["Mattifying Fluid SPF50+: An oil-free, ultra-light fluid that guarantees optimum broad spectrum UVA/UVB protection against the harmful effects of the sun, while regulating sebum & maintaining a matte finish. Enriched with antioxidants for maximum protection all day long (50ml)",
+            "Gold Caviar Serum : Enriched with pure ﬁne 24K gold particles & Caviar extract that will help hydrate, illuminate and plump fatigued skin for a ﬁrmer, refreshed complexion (30ml)",
+            "Lightening Hyaluronic Acid Serum : A rich ultra-replenishing serum is rich in antioxidants to illuminate, re-plump, and quench thirsty skin (30ml), illuminate and plump fatigued skin for a ﬁrmer, refreshed complexion (30ml)",
+             "Vitamin C Cleansing Gel : lighter, Smoother, Firmer.A radiance boosting cleanser enriched with powerful antioxidants to efficiently defend against environmental aggressors (150ml",
+            "Ultra Rich Moisturizer 40ml : Soothes, Hydrates, Nourishes.A unique formula that delivers rich hydrating power to keep your skin feeling soft, smooth and moisturized all day long. Enriched with Ceramides, Shea butter, Aloe Vera, Chamomile and jojoba oil for extra nourishment and immediate comfort. Instantly locks in intense hydration and continuously release it whenever your skin needs it. (40ml)",
+           "Vitamin C Serum 10%: Lighter, Smoother, Firmer.A radiance boosting formula enriched with potent antioxidants to rejuvenate your skin for a visibly energized, brighter, even-toned and youthful look. (30ml)"] ,
+            "category": ["Lightening"]
+            
+        },
+        {
+            "id": 497,
+            "brand": "Dermatique",
+            "name": "Best Sellers Makeup Bundle (Light)",
+            "price": 2260,
+            "price_sign": "EGP",
+            "currency": "In Stock",
+            "image_link": "https://i0.wp.com/Dermatiquelabs.com/wp-content/uploads/2023/12/Best-seller-Makeup-Bundle-Light-2.jpg?resize=314%2C377&ssl=1",
+            "description": ["Mattifying Fluid SPF50+: An oil-free, ultra-light fluid that guarantees optimum broad spectrum UVA/UVB protection against the harmful effects of the sun, while regulating sebum & maintaining a matte finish. Enriched with antioxidants for maximum protection all day long (50ml)",
+             "Maquillage Corrective Foundation – Light :Your favorite foundation is now enriched with Hyaluronic acid for a smoother complexion. For those who are looking for a lightweight high coverage, long lasting & flawless natural finish plus SPF 30 to keep your skin protected from the harmful UVA/UVB sun rays. Formulated with Vitamin E and Niacinamide to rejuvenate your skin. Corrects, unifies, hydrates & protects.*Now in an exclusive portable pack for ease of use!",
+             "Lightening Hyaluronic Acid Serum : A rich ultra-replenishing serum is rich in antioxidants to illuminate, re-plump, and quench thirsty skin (30ml), illuminate and plump fatigued skin for a ﬁrmer, refreshed complexion (30ml)",
+          "Micellar Water : Apply to a cotton pad and gently cleanse and/or remove makeup from face and eye area. Do not rinse (150ml)",
+             "Ultra Rich Moisturizer 40ml : Soothes, Hydrates, Nourishes.A unique formula that delivers rich hydrating power to keep your skin feeling soft, smooth and moisturized all day long. Enriched with Ceramides, Shea butter, Aloe Vera, Chamomile and jojoba oil for extra nourishment and immediate comfort. Instantly locks in intense hydration and continuously release it whenever your skin needs it. (40ml)",
+            "Maquillage Perfecting Concealer + blender (Warm Light) : High coverage, long lasting & flawless natural finish plus SPF 30 to keep your skin protected from the harmful UVA/UVB sun rays. Formulated with Vitamin E, Hyaluronic acid & Niacinamide to rejuvenate your skin (8ml)"],
+            "category": ["Maquillage"]
+           
+        },
+        {
+            "id": 498,
+            "brand": "Dermatique",
+            "name": "Best Sellers Makeup Bundle (Medium)",
+            "price": 2260,
+            "price_sign": "EGP",
+            "currency": "In Stock",
+            "image_link": "https://i0.wp.com/Dermatiquelabs.com/wp-content/uploads/2023/12/Best-seller-Makeup-Bundle-Medium-1.jpg?resize=314%2C377&ssl=1",
+            "description": ["Mattifying Fluid SPF50+: An oil-free, ultra-light fluid that guarantees optimum broad spectrum UVA/UVB protection against the harmful effects of the sun, while regulating sebum & maintaining a matte finish. Enriched with antioxidants for maximum protection all day long (50ml)",
+             "Maquillage Corrective Foundation – Medium :Your favorite foundation is now enriched with Hyaluronic acid for a smoother complexion. For those who are looking for a lightweight high coverage, long lasting & flawless natural finish plus SPF 30 to keep your skin protected from the harmful UVA/UVB sun rays. Formulated with Vitamin E and Niacinamide to rejuvenate your skin. Corrects, unifies, hydrates & protects.*Now in an exclusive portable pack for ease of use!",
+            "Lightening Hyaluronic Acid Serum : A rich ultra-replenishing serum is rich in antioxidants to illuminate, re-plump, and quench thirsty skin (30ml), illuminate and plump fatigued skin for a ﬁrmer, refreshed complexion (30ml)",
+           "Micellar Water : Apply to a cotton pad and gently cleanse and/or remove makeup from face and eye area. Do not rinse (150ml)",
+            "Ultra Rich Moisturizer 40ml : Soothes, Hydrates, Nourishes.A unique formula that delivers rich hydrating power to keep your skin feeling soft, smooth and moisturized all day long. Enriched with Ceramides, Shea butter, Aloe Vera, Chamomile and jojoba oil for extra nourishment and immediate comfort. Instantly locks in intense hydration and continuously release it whenever your skin needs it. (40ml)",
+             "Maquillage Perfecting Concealer + blender (Neutral Medium) : High coverage, long lasting & flawless natural finish plus SPF 30 to keep your skin protected from the harmful UVA/UVB sun rays. Formulated with Vitamin E, Hyaluronic acid & Niacinamide to rejuvenate your skin (8ml)"],
+            "category": ["Maquillage"]
+           
+        },
+        {
+            "id": 499,
+            "brand": "Dermatique",
+            "name": "Best seller Oily Skin Bundle",
+            "price": 1600,
+            "price_sign": "EGP",
+            "currency": "In Stock",
+            "image_link": "https://i0.wp.com/Dermatiquelabs.com/wp-content/uploads/2023/02/Super-Refine-Bundle-3.jpg?resize=314%2C377&ssl=1",
+            "description": ["Mattifying Fluid SPF50+: An oil-free, ultra-light fluid that guarantees optimum broad spectrum UVA/UVB protection against the harmful effects of the sun, while regulating sebum & maintaining a matte finish. Enriched with antioxidants for maximum protection all day long (50ml)",
+           "Purifying Cleansing Gel : A facial cleanser that gently purifies, exfoliates, and limits the formation of acne while regulating the secretion of excess oils.*Inhipase™ sensitive skin technology to suit the most sensitive skin. (150ml)",
+            "Purifying Toner : Purifies, Regulates sebum, Reduces blackheads.A mild alcohol and mineral oil-free toner combining the multiple action of removing traces of dirt, oil, and makeup. Enriched with Rose water, tea tree extract, (150ml)",
+           "Shine Control Moisturizer : Purifies, Soothes, Hydrates.A lightweight hydrating compensating treatment formulated specifically to suit combination to oily skin without leaving a shiny appearance. Enriched with Zinc PCA to regulate sebum production & Aloe Vera to calm inflammation along with Ceramides to lock in moisture & provide intense hydration (40ml)",
+            "Vitamin C Serum 10%: Lighter, Smoother, Firmer.A radiance boosting formula enriched with potent antioxidants to rejuvenate your skin for a visibly energized, brighter, even-toned and youthful look. (30ml)"],
+            "category": ["Combo-Oily"]
+           
+        },
+        {
+            "id": 500,
+            "brand": "Dermatique",
+            "name": "Combination-Oily Daily Bundle",
+            "price": 920,
+            "price_sign": "EGP",
+            "currency": "In Stock",
+            "image_link": "https://i0.wp.com/Dermatiquelabs.com/wp-content/uploads/2023/02/Combination-to-oily-Daily-Bundle.jpg?resize=314%2C377&ssl=1",
+            "description":["Mattifying Fluid SPF50+: An oil-free, ultra-light fluid that guarantees optimum broad spectrum UVA/UVB protection against the harmful effects of the sun, while regulating sebum & maintaining a matte finish. Enriched with antioxidants for maximum protection all day long (50ml)",
+            "Purifying Cleansing Gel : A facial cleanser that gently purifies, exfoliates, and limits the formation of acne while regulating the secretion of excess oils.*Inhipase™ sensitive skin technology to suit the most sensitive skin. (150ml)",
+             "Purifying Toner : Purifies, Regulates sebum, Reduces blackheads.A mild alcohol and mineral oil-free toner combining the multiple action of removing traces of dirt, oil, and makeup. Enriched with Rose water, tea tree extract, (150ml)"] ,
+            "category": ["Combo-Oily"]
+           
+        },
+        {
+            "id": 501,
+            "brand": "Dermatique",
+            "name": "Best Sellers Makeup Bundle (light shade)",
+            "price": 1180,
+            "price_sign": "EGP",
+            "currency": "In Stock",
+            "image_link": "https://i0.wp.com/Dermatiquelabs.com/wp-content/uploads/2023/02/Makeup-Trio-Bundle-Light-1.jpg?resize=314%2C377&ssl=1",
+            "description":["Maquillage Corrective Foundation – light :Your favorite foundation is now enriched with Hyaluronic acid for a smoother complexion. For those who are looking for a lightweight high coverage, long lasting & flawless natural finish plus SPF 30 to keep your skin protected from the harmful UVA/UVB sun rays. Formulated with Vitamin E and Niacinamide to rejuvenate your skin. Corrects, unifies, hydrates & protects.*Now in an exclusive portable pack for ease of use!",
+        "Micellar Water : Apply to a cotton pad and gently cleanse and/or remove makeup from face and eye area. Do not rinse (150ml)",
+             "Maquillage Perfecting Concealer + blender (warm light) : High coverage, long lasting & flawless natural finish plus SPF 30 to keep your skin protected from the harmful UVA/UVB sun rays. Formulated with Vitamin E, Hyaluronic acid & Niacinamide to rejuvenate your skin (8ml)"], 
+            "category": ["Maquillage"]
+           
+        },
+        {
+            "id": 502,
+            "brand": "Dermatique",
+            "name": "Best Sellers Makeup Bundle (medium shade)",
+            "price": 1180,
+            "price_sign": "EGP",
+            "currency": "In Stock",
+            "image_link": "https://i0.wp.com/Dermatiquelabs.com/wp-content/uploads/2023/02/Makeup-Trio-Bundle-Medium-1.jpg?resize=314%2C377&ssl=1",
+            "description":["Maquillage Corrective Foundation – Medium :Your favorite foundation is now enriched with Hyaluronic acid for a smoother complexion. For those who are looking for a lightweight high coverage, long lasting & flawless natural finish plus SPF 30 to keep your skin protected from the harmful UVA/UVB sun rays. Formulated with Vitamin E and Niacinamide to rejuvenate your skin. Corrects, unifies, hydrates & protects.*Now in an exclusive portable pack for ease of use!",
+          "Micellar Water : Apply to a cotton pad and gently cleanse and/or remove makeup from face and eye area. Do not rinse (150ml)",
+          "Maquillage Perfecting Concealer + blender (Neutral Medium) : High coverage, long lasting & flawless natural finish plus SPF 30 to keep your skin protected from the harmful UVA/UVB sun rays. Formulated with Vitamin E, Hyaluronic acid & Niacinamide to rejuvenate your skin (8ml)"], 
+            "category": ["Maquillage"]
+           
+        },
+        {
+            "id": 503,
+            "brand": "Dermatique",
+            "name": "Ultimate Golden Trio",
+            "price": 1440,
+            "price_sign": "EGP",
+            "currency": "In Stock",
+            "image_link": "https://i0.wp.com/Dermatiquelabs.com/wp-content/uploads/2023/01/Ultimate-Golden-Trio-1.jpg?resize=314%2C377&ssl=1",
+            "description":["Gold Caviar Serum : Enriched with pure ﬁne 24K gold particles & Caviar extract that will help hydrate, illuminate and plump fatigued skin for a ﬁrmer, refreshed complexion (30ml)",
+            "Lightening Hyaluronic Acid Serum : A rich ultra-replenishing serum is rich in antioxidants to illuminate, re-plump, and quench thirsty skin (30ml), illuminate and plump fatigued skin for a ﬁrmer, refreshed complexion (30ml)",
+           "Vitamin C Serum 10%: Lighter, Smoother, Firmer.A radiance boosting formula enriched with potent antioxidants to rejuvenate your skin for a visibly energized, brighter, even-toned and youthful look. (30ml)"], 
+            "category": ["Lightening"]
+           
+        },
+        {
+            "id": 504,
+            "brand": "Dermatique",
+            "name": "Concealer + Foundation Duo (Light shade)",
+            "price": 920,
+            "price_sign": "EGP",
+            "currency": "In Stock",
+            "image_link": "https://i0.wp.com/Dermatiquelabs.com/wp-content/uploads/2023/06/Makeup-Duo-Bundle-Light.jpg?resize=314%2C377&ssl=1",
+            "description": ["Maquillage Corrective Foundation – light :Your favorite foundation is now enriched with Hyaluronic acid for a smoother complexion. For those who are looking for a lightweight high coverage, long lasting & flawless natural finish plus SPF 30 to keep your skin protected from the harmful UVA/UVB sun rays. Formulated with Vitamin E and Niacinamide to rejuvenate your skin. Corrects, unifies, hydrates & protects.*Now in an exclusive portable pack for ease of use!",
+             "Maquillage Perfecting Concealer + blender (warm light) : High coverage, long lasting & flawless natural finish plus SPF 30 to keep your skin protected from the harmful UVA/UVB sun rays. Formulated with Vitamin E, Hyaluronic acid & Niacinamide to rejuvenate your skin (8ml)"], 
+            "category": ["Maquillage"]
+        
+        },
+        {
+            "id": 505,
+            "brand": "Dermatique",
+            "name": "Concealer + Foundation Duo (Medium shade)",
+            "price": 920,
+            "price_sign": "EGP",
+            "currency": "In Stock",
+            "image_link": "https://i0.wp.com/Dermatiquelabs.com/wp-content/uploads/2023/02/Makeup-Duo-Bundle-Medium.jpg?resize=314%2C377&ssl=1",
+            "description":["Maquillage Corrective Foundation – Medium :Your favorite foundation is now enriched with Hyaluronic acid for a smoother complexion. For those who are looking for a lightweight high coverage, long lasting & flawless natural finish plus SPF 30 to keep your skin protected from the harmful UVA/UVB sun rays. Formulated with Vitamin E and Niacinamide to rejuvenate your skin. Corrects, unifies, hydrates & protects.*Now in an exclusive portable pack for ease of use!",
+             "Maquillage Perfecting Concealer + blender (Neutral Medium) : High coverage, long lasting & flawless natural finish plus SPF 30 to keep your skin protected from the harmful UVA/UVB sun rays. Formulated with Vitamin E, Hyaluronic acid & Niacinamide to rejuvenate your skin (8ml)"], 
+            "category": ["Maquillage"]
+           
+        },
+        {
+            "id": 506,
+            "brand": "Dermatique",
+            "name": "Double Concealer – set of 2 (Light + Medium Shade)",
+            "price": 800,
+            "price_sign": "EGP",
+            "currency": "In Stock",
+            "image_link": "https://i0.wp.com/Dermatiquelabs.com/wp-content/uploads/2023/02/Concealer-2-Set.jpg?resize=314%2C377&ssl=1",
+            "description":["Maquillage Perfecting Concealer + blender (warm light) : High coverage, long lasting & flawless natural finish plus SPF 30 to keep your skin protected from the harmful UVA/UVB sun rays. Formulated with Vitamin E, Hyaluronic acid & Niacinamide to rejuvenate your skin (8ml)",
+            "Maquillage Perfecting Concealer + blender (Neutral Medium) : High coverage, long lasting & flawless natural finish plus SPF 30 to keep your skin protected from the harmful UVA/UVB sun rays. Formulated with Vitamin E, Hyaluronic acid & Niacinamide to rejuvenate your skin (8ml)"], 
+            "category": ["Maquillage"]
+           
+        },
+        {
+            "id": 507,
+            "brand": "Dermatique",
+            "name": "Double Foundation – set of 2 (Light+Medium)",
+            "price": 1040,
+            "price_sign": "EGP",
+            "currency": "In Stock",
+            "image_link": "https://i0.wp.com/Dermatiquelabs.com/wp-content/uploads/2023/06/Foundation-Light-_-Medium-Bundle-1.jpg?resize=314%2C377&ssl=1",
+            "description":["Maquillage Corrective Foundation – Medium :Your favorite foundation is now enriched with Hyaluronic acid for a smoother complexion. For those who are looking for a lightweight high coverage, long lasting & flawless natural finish plus SPF 30 to keep your skin protected from the harmful UVA/UVB sun rays. Formulated with Vitamin E and Niacinamide to rejuvenate your skin. Corrects, unifies, hydrates & protects.*Now in an exclusive portable pack for ease of use!",
+             "Maquillage Corrective Foundation – light :Your favorite foundation is now enriched with Hyaluronic acid for a smoother complexion. For those who are looking for a lightweight high coverage, long lasting & flawless natural finish plus SPF 30 to keep your skin protected from the harmful UVA/UVB sun rays. Formulated with Vitamin E and Niacinamide to rejuvenate your skin. Corrects, unifies, hydrates & protects.*Now in an exclusive portable pack for ease of use!"], 
+            "category": ["Maquillage"]
+           
+        },
+        {
+            "id": 508,
+            "brand": "Dermatique",
+            "name": "Maquillage Corrective Foundation – Light",
+            "price": 520,
+            "price_sign": "EGP",
+            "currency": "In Stock",
+            "image_link": "https://i0.wp.com/Dermatiquelabs.com/wp-content/uploads/2023/12/Light-Foundation-2.jpg?resize=314%2C377&ssl=1",
+            "description": ["High coverage, long lasting & flawless natural finish plus SPF 30 to keep your skin protected from the harmful UVA/UVB sun rays. Formulated with Vitamin E, Hyaluronic acid & Niacinamide to rejuvenate your skin."],
+            "category": ["Maquillage","All Products"]
+           
+          
+        },
+        {
+            "id": 509,
+            "brand": "Dermatique",
+            "name": "Maquillage Corrective Foundation – medium",
+            "price": 520,
+            "price_sign": "EGP",
+            "currency": "In Stock",
+            "image_link": "https://i0.wp.com/Dermatiquelabs.com/wp-content/uploads/2023/12/Medium-Foundation-2.jpg?resize=314%2C377&ssl=1",
+            "description": ["High coverage, long lasting & flawless natural finish plus SPF 30 to keep your skin protected from the harmful UVA/UVB sun rays. Formulated with Vitamin E, Hyaluronic acid & Niacinamide to rejuvenate your skin."],
+            "category": ["Maquillage","All Products"]
+           
+            
+        },
+        {
+            "id": 510,
+            "brand": "Dermatique",
+            "name": "Maquillage Perfecting Concealer + blender (Neutral Medium)",
+            "price": 400,
+            "price_sign": "EGP",
+            "currency": "In Stock",
+            "image_link": "https://i0.wp.com/Dermatiquelabs.com/wp-content/uploads/2023/02/Medium-Concealer.jpg?resize=314%2C377&ssl=1",
+            "description": ["Maquillage Perfecting Concealer + blender (Neutral Medium) : High coverage, long lasting & flawless natural finish plus SPF 30 to keep your skin protected from the harmful UVA/UVB sun rays. Formulated with Vitamin E, Hyaluronic acid & Niacinamide to rejuvenate your skin (8ml)"],
+            "category":  ["Maquillage","All Products"] 
+           
+        },
+        {
+            "id": 511,
+            "brand": "Dermatique",
+            "name": "Maquillage Perfecting Concealer + blender (warm light)",
+            "price": 400,
+            "price_sign": "EGP",
+            "currency": "In Stock",
+            "image_link": "https://i0.wp.com/Dermatiquelabs.com/wp-content/uploads/2023/02/Light-Concealer.jpg?resize=314%2C377&ssl=1",
+            "description":[ "Maquillage Perfecting Concealer + blender (warm light) : High coverage, long lasting & flawless natural finish plus SPF 30 to keep your skin protected from the harmful UVA/UVB sun rays. Formulated with Vitamin E, Hyaluronic acid & Niacinamide to rejuvenate your skin (8ml)"],
+            "category":  ["Maquillage","All Products"]
+           
+        },
+        {
+            "id": 512,
+            "brand": "Dermatique",
+            "name": "Micellar Water",
+            "price": 260,
+            "price_sign": "EGP",
+            "currency": "In Stock",
+            "image_link": "https://i0.wp.com/Dermatiquelabs.com/wp-content/uploads/2023/02/Micealer-water.jpg?resize=314%2C377&ssl=1",
+            "description": ["An all-in-one makeup remover enriched with natural ingredients that gently cleanses, hydrates, soothes & removes even water-resistant makeup from the face and eye area."],
+            "category":  ["Maquillage","All Products"]   
+           
+        },
+        {
+            "id": 513,
+            "brand": "Dermatique",
+            "name": "Vitamin C Cleansing Gel",
+            "price": 280,
+            "price_sign": "EGP",
+            "currency": "In Stock",
+            "image_link": "https://i0.wp.com/Dermatiquelabs.com/wp-content/uploads/2022/07/Vitamin-C-wash.jpg?resize=314%2C377&ssl=1",
+            "description": ["Vitamin C Cleansing Gel 150ml. A Lighter, Smoother, Firmer.A radiance boosting cleanser enriched with powerful antioxidants to efficiently defend against environmental aggressors."],
+            "category": ["Lightening" , "All Products" ]   
+           
+        },
+        {
+            "id": 514,
+            "brand": "Dermatique",
+            "name": "Mattifying Fluid SPF50+",
+            "price": 400,
+            "price_sign": "EGP",
+            "currency": "In Stock",
+            "image_link": "https://i0.wp.com/Dermatiquelabs.com/wp-content/uploads/2020/08/Sun-2.jpg?resize=314%2C377&ssl=1",
+            "description": ["Mattifying Sunscreen SPF50+ (For Combination to Oily Skin) 50ml. Mattifies, Hydrates, Protects. An oil-free, ultra light fluid that guarantees optimum broad spectrum UVA/UVB protection against the harmful effects of the sun, while regulating sebum & maintaining a matte finish. Enriched with antioxidants for maximum protection all day long."],
+            "category":[ "Combo-Oily", "daily essentials", "Lightening", "sunscreen"]
+               
+        },
+        {
+            "id": 515,
+            "brand": "Dermatique",
+            "name": "Vitamin C Serum 10%",
+            "price": 440,
+            "price_sign": "EGP",
+            "currency": "In Stock",
+            "image_link": "https://i0.wp.com/Dermatiquelabs.com/wp-content/uploads/2020/07/Vitamin-c-serum.jpg?resize=314%2C377&ssl=1",
+            "description": ["Vitamin C Serum 10% . Lighter, Smoother, Firmer. A radiance boosting formula enriched with potent antioxidants to rejuvenate your skin for a visibly energized, brighter, even-toned and youthful look. Enriched with Vitamin E and Rose hips for intense nourishment. Accompanied by Collagen and Hyaluronic acid’s anti-aging properties that will effectively reduce the appearance of wrinkles and restore firmness."],
+            "category": ["Lightening" ,"Combo-Oily"]    
+           
+        },
+        {
+            "id": 516,
+            "brand": "Dermatique",
+            "name": "Lightening Hyaluronic Acid Serum",
+            "price": 440,
+            "price_sign": "EGP",
+            "currency": "In Stock",
+            "image_link": "https://i0.wp.com/Dermatiquelabs.com/wp-content/uploads/2023/02/Hylo.jpg?resize=314%2C377&ssl=1",
+            "description": ["Lightening Hyaluronic Acid Serum 30ml. Lightens, Hydrates. A rich ultra-replenishing serum is rich in antioxidants to illuminate, re-plump, and quench thirsty skin. An intense hydration booster that will retain the skin’s moisture content and keep you moisturized and plumped all day long.Enriched with Lightening and antiaging ingredients including Collagen, Vitamin C & E to restore a bright, youthful radiance and improve elasticity and firmness.A rich texture formulated with Vitamin B5 to leave the skin feeling supple and hydrated to the touch."],
+            "category": ["Lightening" ,"Combo-Oily" ]
+             
+             
+        },
+        {
+            "id": 517,
+            "brand": "Dermatique",
+            "name": "Tinted Sun Fluid Hyaluronic Acid Gel Cream",
+            "price": 480,
+            "price_sign": "EGP",
+            "currency": "out of stock",
+            "image_link": "https://i0.wp.com/Dermatiquelabs.com/wp-content/uploads/2023/07/Tinted-Sun.jpg?resize=314%2C377&ssl=1",
+            "description": ["Tinted Sun Fluid Hyaluronic Acid Gel Cream: Not just your ordinary tinted sunscreen, this 3 in 1 innovative oil-free, ultra-light formula serves also as your lightweight daily foundation with light-medium coverage to give you that natural finish you’ve been waiting for! Guarantees an optimum broad-spectrum UVA/UVB protection against the harmful effects of the sun, while regulating sebum & maintaining a fresh look.Enriched with antioxidants for maximum protection all day long. With added Hyaluronic acid for a smooth, hydrated finish."],
+            "category": ["sunscreen" ] 
+             
+        },
+        {
+            "id": 518,
+            "brand": "Dermatique",
+            "name": "Gold Caviar Serum",
+            "price":560,
+            "price_sign": "EGP",
+            "currency": "In Stock",
+            "image_link": ["https://i0.wp.com/Dermatiquelabs.com/wp-content/uploads/2023/01/Gold-Cavier-2.jpg?resize=314%2C377&ssl=1"],
+            "description": "Dermatique GOLD 24K CAVIAR SERUM . Enriched with pure ﬁne 24K gold particles & Caviar extract that will help hydrate, illuminate and plump fatigued skin for a ﬁrmer, refreshed complexion.Caviar extract is known for carrying an abundance of moisture, vitamins, and nutrients to reduce wrinkles and elasticity while Gold promotes a luminous, moisturized complexion.",
+            "category": ["Lightening" ]   
+           
+        },
+        {
+            "id": 519,
+            "brand": "Dermatique",
+            "name": "Shine Control Moisturizer",
+            "price": 240,
+            "price_sign": "EGP",
+            "currency": "In Stock",
+            "image_link": "https://i0.wp.com/Dermatiquelabs.com/wp-content/uploads/2023/02/Refine-Moisture-40-ml.jpg?fit=510%2C510&ssl=1",
+            "description":[ "Shine Control Moisturizer 40ml. Purifies, Soothes, Hydrates. A lightweight hydrating compensating treatment formulated specifically to suit combination to oily skin without leaving a shiny appearance. Enriched with Zinc PCA to regulate sebum production & Aloe Vera to calm inflammation along with Ceramides to lock in moisture & provide intense hydration."],
+            "category": ["Combo-Oily" ]   
+           
+        },
+        {
+            "id": 520,
+            "brand": "Dermatique",
+            "name": "Purifying Toner",
+            "price": 260,
+            "price_sign": "EGP",
+            "currency": "In Stock",
+            "image_link": "https://i0.wp.com/Dermatiquelabs.com/wp-content/uploads/2022/10/Toner.jpg?fit=510%2C510&ssl=1",
+            "description": ["Purifying Toner for Oily Skin .Purifies, Regulates sebum, Reduces blackheads. A mild alcohol and mineral oil-free toner combining the multiple action of removing traces of dirt, oil, and makeup. Enriched with Rose water, tea tree extract, Capryloyl Salicylic acid, Aloe Vera extract, Niacinamide & Witch Hazel, an effective combination to purify, soothe, and protect the skin leaving it fresh and clear."],
+            "category": [" All Products", "Combo-Oily"]   
+            
+        },
+        {
+            "id": 521,
+            "brand": "Dermatique",
+            "name": "Purifying Cleansing Gel",
+            "price": 260,
+            "price_sign": "EGP",
+            "currency": "In Stock",
+            "image_link": "https://i0.wp.com/Dermatiquelabs.com/wp-content/uploads/2022/10/Refine-wash.jpg?fit=510%2C510&ssl=1",
+            "description": ["Purifying Cleansing Gel . Purifies, Soothes, Hydrates. A facial cleanser that gently purifies, exfoliates, and limits the formation of acne while regulating the secretion of excess oils."],
+            "category": ["Combo-Oily"]    
+           
+        },
+        {
+            "id": 522,
+            "brand": "Dermatique",
+            "name": "Mattifying Fluid SPF50+",
+            "price": 400,
+            "price_sign": "EGP",
+            "currency": "In Stock",
+            "image_link": "https://i0.wp.com/Dermatiquelabs.com/wp-content/uploads/2020/08/Sun-2.jpg?fit=510%2C510&ssl=1",
+            "description":[ "Mattifying Sunscreen SPF50+ (For Combination to Oily Skin) 50ml. Mattifies, Hydrates, Protects. An oil-free, ultra light fluid that guarantees optimum broad spectrum UVA/UVB protection against the harmful effects of the sun, while regulating sebum & maintaining a matte finish. Enriched with antioxidants for maximum protection all day long."],
+            "category": ["Combo-Oily", "daily essentials", "Lightening", "sunscreen"]  
+              
+        },
+        {
+            "id": 523,
+            "brand": "Dermatique",
+            "name": "Whitening deodorant",
+            "price": 260,
+            "price_sign": "EGP",
+            "currency": "out of stock",
+            "image_link": "https://i0.wp.com/Dermatiquelabs.com/wp-content/uploads/2022/10/Deodorant.jpg?fit=510%2C510&ssl=1",
+            "description": ["Whitening Deodorant . All-in-one safe & effective formula that lightens dark areas, delays hair growth, soothes, hydrates, and refreshes underarms. Enriched with Sepiwhite™️ technology, Vitamin C & E, Hyaluronic acid, Aloe Vera, Licorice & Cucumber extract combined with Pollushield™️ anti-pollution complex. Clean & bright all day long, gentle on the most sensitive skin."],
+            "category": ["All Products","daily essentials"   ]
+            
+        },
+        {
+            "id": 524,
+            "brand": "Dermatique",
+            "name": "Ultra-Rich Moisturizer ",
+            "price": 300,
+            "price_sign": "EGP",
+            "currency": "out of stock",
+            "image_link": "https://i0.wp.com/Dermatiquelabs.com/wp-content/uploads/2022/10/Ultra-rich.jpg?fit=510%2C510&ssl=1",
+            "description":[ "Ultra-Rich Moisturizer 150ml . Soothes, Hydrates, Nourishes. A unique formula that delivers rich hydrating power to keep your skin feeling soft, smooth and moisturized all day long. Enriched with Ceramides, Shea butter, Aloe Vera, Chamomile and jojoba oil for extra nourishment and immediate comfort. Instantly locks in intense hydration and continuously release it whenever your skin needs it."],
+            "category": ["All Products","daily essentials" ]   
+           
+        },
+        {
+            "id": 525,
+            "brand": "Dermatique",
+            "name": "Ultra Rich Moisturizer (set of 2)",
+            "price": 600,
+            "price_sign": "EGP",
+            "currency": "In Stock",
+            "image_link": "https://i0.wp.com/Dermatiquelabs.com/wp-content/uploads/2022/09/Ultra-rich-Set-of-2.jpg?fit=510%2C510&ssl=1",
+            "description":[ "Ultra Rich Moisturizer (set of 2). Ultra Rich Moisturizer : Soothes, Hydrates, Nourishes. A unique formula that delivers rich hydrating power to keep your skin feeling soft, smooth and moisturized all day long. Enriched with Ceramides, Shea butter, Aloe Vera, Chamomile and jojoba oil for extra nourishment and immediate comfort. Instantly locks in intense hydration (150ml)"],
+            "category": ["All Products","daily essentials" ]   
+           
+        },
+        {
+            "id": 526,
+            "brand": "Dermatique",
+            "name": "Mattifying Fluid SPF50+",
+            "price": 400,
+            "price_sign": "EGP",
+            "currency": "In Stock",
+            "image_link": "https://i0.wp.com/Dermatiquelabs.com/wp-content/uploads/2020/08/Sun-2.jpg?fit=510%2C510&ssl=1",
+            "description":[ "Mattifying Sunscreen SPF50+ (For Combination to Oily Skin) 50ml. Mattifies, Hydrates, Protects. An oil-free, ultra light fluid that guarantees optimum broad spectrum UVA/UVB protection against the harmful effects of the sun, while regulating sebum & maintaining a matte finish. Enriched with antioxidants for maximum protection all day long."],
+            "category": ["Combo-Oily", "daily essentials", "Lightening", "sunscreen"]
+             
+        }
+    
+        
+    ]
+}

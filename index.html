@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <title>home</title>
+ <link rel="icon" href="assets/img/WhatsApp-Image-2020-08-24-at-2.26.42-PM (1).jpeg" type="image/icon-x">
+    <link rel="stylesheet" href="css/main pro 2.css" />
+  </head>
+  <body>
+    <div class="loader"></div>
+  <div class="pop-over" id="popOver"></div>
+  <div class="pop-over" id="cartPopOver"></div>
+
+  <!-- start header -->
+  <header>
+      
+    <nav class="navbar navbar-expand-lg d-flex justify-content-between align-items-center">
+      <div class="container-xl">    
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <a class="cart" href="cart.html" >cart / <span class="badge" id="badge"></span>  <i class="fa-solid fa-cart-shopping"></i>  </a>
+        <div class="collapse navbar-collapse " id="navbarSupportedContent">
+          <ul class="navbar-nav d-flex flex-nowrap  flex-row me-auto ">
+            <span class="cart-divider"></span>
+            <li class="nav-item">
+              <a class="nav-link loginItem"   href="login.html">login</a>
+            </li>
+            <div class="d-none logOutMenu">
+            <li class="d-inline-flex gap-1 nav-item">
+              <a class="nav-link" data-bs-toggle="collapse" href="#collapseExample2" role="button" aria-expanded="false" aria-controls="collapseExample">
+                <span class="logout-dropdown"> <i class="fa-solid fa-user"></i> <span class="d-inline-block user"></span></span>
+              </a>
+            </li>
+            <ul class="collapse shop-menu" id="collapseExample2">
+                <li><a href="wishlist.html">my wishlist</a></li>
+                <li class="logout-btn logOut"><a class="nav-link"><i class="fa-solid fa-arrow-right-from-bracket px-1"></i>log out</a></li>
+            </ul>
+          </div>
+               
+    
+             
+       
+               
+           
+          </ul>
+        
+  
+          <ul class="navbar-nav ms-auto mb-2 mb-lg-0 left-list">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+            </li>
+
+
+            <li class="d-inline-flex gap-1 nav-item">
+              <div class="d-flex align-items-center ">
+                <a href="products.html">shop page</a>
+              <a class="nav-link" data-bs-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+                 <i class="fa-solid fa-caret-down  "></i>
+               
+              </a>
+              </div>
+            </li>
+            <ul class="collapse shop-menu" id="collapseExample">
+            
+                <li><a class="shop-item" href="#">All Products</a></li>
+                <li><a class="shop-item" href="#">Maquillage</a></li>
+                <li><a class="shop-item" href="#">daily essentials</a></li>
+                <li><a class="shop-item" href="#">combo-oily</a></li>
+                <li><a class="shop-item" href="#">lightening</a></li>
+
+            </ul>
+
+       
+             
+       
+            <li class="nav-item">
+              <a class="nav-link" href="dermatiqeplus.html">Dermatique Plus</a>
+            </li>
+
+            <li class="nav-item ">
+              <a class="nav-link" href="help.html">help & contact</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="privacy.html">Privacy Policy</a>
+            </li>
+
+
+           </ul> 
+           
+
+           
+           <li class="d-inline-flex gap-1 nav-item">
+         
+            <a class="nav-link" data-bs-toggle="collapse" href="#collapseExample3" role="button" aria-expanded="false" aria-controls="collapseExample">
+              <span class="me-5 search"> <i class="fa-solid fa-search"></i></span>
+             
+            </a>
+  
+          </li>
+          <div class="collapse search-input" id="collapseExample3">
+            <span class="input-arrow"><i class="fa-solid fa-caret-up"></i></span>
+            <div class="d-flex">
+              <input type="search" class="form-control d-inline-block searchInput">
+              <button class="search-btn">search..</button>
+             </div>
+             <table>
+              <tbody class="searchedProducts">
+                
+              </tbody>
+            </table>
+          </div>
+        </div>
+        <a class="header-brand navbar-brand"  href="index.html"><img src="assets/img/WhatsApp-Image-2020-08-24-at-2.26.42-PM (1).jpeg" alt="Dermatique"></a>  
+
+  
+      
+      </div>
+     
+    </nav>
+    
+  </header>
+  <!-- end header -->
+    <!-- start slider -->
+    <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+      <div class="carousel-inner ">
+        <div class="carousel-item active">
+         <h5 class="d-block w-100 text-center">INSPIRED BY NATURE POWERED BY SCIENCE</h5>
+        </div>
+        <div class="carousel-item">
+          <h5 class="d-block w-100 text-center">MARKET LEADER IN MEDICATED MAKEUP</h5>
+        </div>
+      </div>
+    </div>
+    <!-- end slider -->
+    <!-- start main section -->
+      <section class="main">
+      
+          <div class="row justify-content-center">
+          <div class="col-xl-4 col-md-6 col-sm-12 p-0">
+            <div class="main-img text-center">            
+              <img src="assets/img/web-banner-3-new-bottle.jpg" alt="flash offer">
+              <a href="products.html" class="shop-btn">shop now</a>
+            </div>
+          </div>
+          <div class="col-xl-4 col-md-6 col-sm-12 p-0">
+            <div class="main-img">
+              <img src="assets/img/SUMMER-OFFERS-SUN.jpg" alt="summer offer">
+              <a href="products.html" class="shop-btn">shop now</a>
+            </div>
+          </div>
+          <div class="col-xl-4 col-md-6 col-sm-12 p-0">
+            <div class="main-img">
+              <img src="assets/img/Tinted-Sun-banner-3.jpg" alt="tinted sun screen">
+              <a href="products.html" class="shop-btn">shop now</a>
+            </div>
+          </div>
+        </div>
+      </section>
+    <!-- end main section -->
+    <!-- start best section -->
+    <section class="best" >
+      <div class="best-seller text-center">
+      <h3>  best sellers</h3>
+      </div>
+      <div class="container">
+        <div class="best-products">
+        <div class="row " id="bestItems">
+     
+          </div>
+        </div>
+      </div>
+    </section>
+        <!-- end best sect -->
+        <!-- start bundle sect -->
+        <section class="bundle">
+          <div class="container">
+          <div class="row">
+            <div class="col-xl-3 col-md-6 col-sm-12">
+              <div class="bundle-items">
+                <div class="bundle-img text-center">
+                  <div class="bundle-overLay">
+                    <h4>daily <br>essentials</h4>
+                    <a href="products.html" class="bundle-btn">shop now</a>
+                  </div>
+                  <img src="assets/img/essentials.jpg" alt="bundle">
+                
+                </div>
+              </div>
+            </div>
+            <div class="col-xl-3 col-md-6 col-sm-12">
+              <div class="bundle-items">
+                <div class="bundle-img text-center">
+                  <div class="bundle-overLay">
+                    <h4>maquillage</h4>
+                    <a href="products.html" class="bundle-btn">shop now</a>
+                  </div>
+                  <img src="assets/img/maquillage-.jpg" alt="bundle">
+                
+                </div>
+              </div>
+            </div>
+            <div class="col-xl-3 col-md-6 col-sm-12">
+              <div class="bundle-items">
+                <div class="bundle-img text-center">
+                  <div class="bundle-overLay">
+                    <h4>lightening</h4>
+                    <a href="products.html" class="bundle-btn">shop now</a>
+                  </div>
+                  <img src="assets/img/lightening-2.jpg" alt="bundle">
+                
+                </div>
+              </div>
+            </div>
+            <div class="col-xl-3 col-md-6 col-sm-12">
+              <div class="bundle-items">
+                <div class="bundle-img text-center">
+                  <div class="bundle-overLay">
+                    <h4>combo-oily</h4>
+                    <a href="products.html" class="bundle-btn">shop now</a>
+                  </div>
+                  <img src="assets/img/combo-oily.jpg" alt="bundle">
+                
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        </section>
+  
+
+    <!-- end bundle section -->
+    <!-- start safe section -->
+    <section class="safe">  
+      <div class="container">
+        <div class="row">
+          <div class="col-xl-6">
+            <h2 class="safe-text">your safety is our main <br> concern</h2>
+          </div>
+          <div class="col-xl-6">
+            <ul class="safe-list" >
+              <li><h2 class="safe-marker">01</h2>
+                <span>Inhipase Sensitive Skin Technology</span> </li>
+                <div class="safe-divider"></div>
+                <li><h2 class="safe-marker">02</h2>
+                <span> Not Tested on Animals</span> </li>
+                 <div class="safe-divider"></div>
+                  <li><h2 class="safe-marker">03</h2>
+                   <span>Dermatologically Tested</span> </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- end safe section -->
+    <!-- start details sect -->
+<div class="light-box-container" id="lightBox">
+  <section class="detailes py-5">
+    <div class="close" ><i class="fa-solid fa-xmark"></i></div>
+    <div class="container">
+    <div class="detail-content">
+    <div class="row" id="productsRow">
+      
+  </div>
+
+ </div>
+
+</section>
+</div>
+
+
+   <!-- end details sect -->
+     <footer>
+    <div class="foot-text">
+      <div class="cash">
+        cash on <br />
+        delivery
+      </div>
+      <div class="copy-right">Copyright Dermatique © <strong>2020</strong></div>
+    </div>
+  </footer>
+    <script src="./js/vendor/bootstrap.bundle.min.js"></script>
+    <script src="js/wishlist.js"></script>
+    <script src="js/logout.js"></script> 
+     <script  src="js/js.js" defer></script>
+    <script src="js/index.js"></script>
+    <script src="js/view details.js"></script>
+    <script src="js/search.js"></script>
+
+  </body>
+
+  
+</html>

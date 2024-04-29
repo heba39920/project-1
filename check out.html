@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="" />
+  <meta name="keywords" content="" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+  <title>home</title>
+  <link rel="stylesheet" href="css/main pro 2.css" />
+</head>
+
+<body>
+  <div class="loader"></div>
+  <!-- start header -->
+  <header>
+      
+    <nav class="navbar navbar-expand-lg d-flex justify-content-between align-items-center">
+      <div class="container-xl">    
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <a class="cart" href="cart.html" >cart / <span class="badge" id="badge"></span>  <i class="fa-solid fa-cart-shopping"></i>  </a>
+        <div class="collapse navbar-collapse " id="navbarSupportedContent">
+          <ul class="navbar-nav d-flex flex-nowrap  flex-row me-auto ">
+            <span class="cart-divider"></span>
+            <li class="nav-item">
+              <a class="nav-link loginItem"   href="login.html">login</a>
+            </li>
+            <div class="d-none logOutMenu">
+            <li class="d-inline-flex gap-1 nav-item">
+              <a class="nav-link" data-bs-toggle="collapse" href="#collapseExample2" role="button" aria-expanded="false" aria-controls="collapseExample">
+                <span class="logout-dropdown"> <i class="fa-solid fa-user"></i> <span class="d-inline-block user"></span></span>
+              </a>
+            </li>
+            <ul class="collapse shop-menu" id="collapseExample2">
+                <li><a href="wishlist.html">my wishlist</a></li>
+                <li class="logout-btn logOut"><a class="nav-link"><i class="fa-solid fa-arrow-right-from-bracket px-1"></i>log out</a></li>
+            </ul>
+          </div>
+               
+    
+             
+       
+               
+           
+          </ul>
+        
+  
+          <ul class="navbar-nav ms-auto mb-2 mb-lg-0 left-list">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+            </li>
+
+
+            <li class="d-inline-flex gap-1 nav-item">
+              <div class="d-flex align-items-center ">
+                <a href="products.html">shop page</a>
+              <a class="nav-link" data-bs-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+                 <i class="fa-solid fa-caret-down  "></i>
+               
+              </a>
+              </div>
+            </li>
+            <ul class="collapse shop-menu" id="collapseExample">
+            
+                <li><a class="shop-item" href="#">All Products</a></li>
+                <li><a class="shop-item" href="#">Maquillage</a></li>
+                <li><a class="shop-item" href="#">daily essentials</a></li>
+                <li><a class="shop-item" href="#">combo-oily</a></li>
+                <li><a class="shop-item" href="#">lightening</a></li>
+
+            </ul>
+
+       
+             
+       
+            <li class="nav-item">
+              <a class="nav-link" href="dermatiqeplus.html">Dermatique Plus</a>
+            </li>
+
+            <li class="nav-item ">
+              <a class="nav-link" href="help.html">help & contact</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="privacy.html">Privacy Policy</a>
+            </li>
+
+
+           </ul> 
+           
+
+           
+           <li class="d-inline-flex gap-1 nav-item">
+         
+            <a class="nav-link" data-bs-toggle="collapse" href="#collapseExample3" role="button" aria-expanded="false" aria-controls="collapseExample">
+              <span class="me-5 search"> <i class="fa-solid fa-search"></i></span>
+             
+            </a>
+  
+          </li>
+          <div class="collapse search-input" id="collapseExample3">
+            <span class="input-arrow"><i class="fa-solid fa-caret-up"></i></span>
+            <div class="d-flex">
+              <input type="search" class="form-control d-inline-block searchInput">
+              <button class="search-btn">search..</button>
+             </div>
+             <table>
+              <tbody class="searchedProducts">
+                
+              </tbody>
+            </table>
+          </div>
+        </div>
+        <a class="header-brand navbar-brand"  href="index.html"><img src="assets/img/WhatsApp-Image-2020-08-24-at-2.26.42-PM (1).jpeg" alt="Dermatique"></a>  
+
+  
+      
+      </div>
+     
+    </nav>
+    
+  </header>
+  <!-- end header -->
+  <!-- start check out section -->
+  <section class="check-out py-5">
+    <ul class="pages-menu d-flex justify-content-center">
+      <li><a class="menu-link" href="cart.html">shopping cart <i class="fa-solid fa-chevron-right px-1"></i></a></li>
+      <li><a class="menu-link active-link" href="check out.html">checkout details<i
+            class="fa-solid fa-chevron-right px-1"></i></a> </li>
+      <li ><button class="menu-link border-0" id="orderCompleted">order complete</button></li>
+    </ul>
+    <div class="container">
+      <div class="checkout-details text-capitalize py-5">
+     <div id="loginForm" class="d-block">
+      <p class="d-inline-block">returning customer?</p>
+      <p class="d-inline-flex gap-1">
+        <a class="login-link" data-bs-toggle="collapse" href="#collapseExample4" role="button" aria-expanded="false"
+          aria-controls="collapseExample">
+          click here to login
+        </a>
+      </p>
+      <div class="collapse" id="collapseExample4">
+        <div class="">
+          <p class="check-info">If you have shopped with us before, please enter your details below. If you are a new
+            customer, please proceed to the Billing section.
+
+          </p>
+         <div class="row">
+          <div class="col-xl-6 col-md-6 col-sm-12">
+            <form class="login-form"  novalidate onsubmit="false">
+              <label for="loginUserName" class="form-label  m-2 text-capitalize  ">user name*</label>
+              <input type="text" id="loginUserName"  class="form-control mb-2">
+              <div class="alert alert-danger" role="alert" id="loginAlert">
+                Invalid User Name or Password
+               </div>
+              <label for="loginPassword" class="form-label m-2 text-capitalize">password*</label>
+              <input type="password" id="loginPassword"class="form-control mb-2 ">
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" id="flexCheckDefault1">
+                <label class="form-check-label" for="flexCheckDefault1">
+                  remember me
+                </label>
+              </div>
+              <button type="button" class="best-btn d-block mt-5 mb-4 " id="logIn">LOG IN</button>
+              <a href="#" class="lost-pass">lost your password?</a>
+            </form>
+          </div>
+         </div>
+        </div>
+      </div>
+     </div>
+
+        <div class="check-coupon p-1 ">
+          <p class="d-inline-block">have a coupon?</p>
+          <p class="d-inline-flex gap-1">
+            <a class="login-link" data-bs-toggle="collapse" href="#multiCollapseExample1" role="button"
+              aria-expanded="false" aria-controls="multiCollapseExample1">click here to enter your code</a>
+          </p>
+
+
+        </div>
+        <div class="collapse multi-collapse" id="multiCollapseExample1">
+          <div class="check-code">
+            <p class="mb-1"> If you have a coupon code, please apply it below.</p>
+            
+                <div class="d-flex ">
+                  <input type="text" placeholder="coupon code" class="p-1 w-100" id="couponInput">
+                <button class="apply-btn" id="apply" onclick="applyCoupon()">apply coupon</button>
+                </div>
+          
+              <div class="alert alert- danger check-alert" role="alert" id="couponAlert">
+                  invalid coupon code!
+                </div>
+          </div>
+        </div>
+      </div>
+      <div class="info-form">
+        <h5 class="checkout-head">
+          billing & shipping
+        </h5>
+        <div class="row">
+          <div class="col-xl-7">
+            <form novalidate>
+              <div class="row">
+                <div class="col-xl-6">
+                  <label for="firstName" class="form-label  m-2 text-capitalize">first name*</label>
+                  <input type="text" id="firstName" required class="form-control mb-2 mx-2 ">
+                  <div class="alert alert-danger check-alert" role="alert">
+                    your first name should contain at least 3 letters!
+                  </div>
+                </div>
+                <div class="col-xl-6">
+                  <label for="lastName" class="form-label  m-2 text-capitalize">last name*</label>
+                  <input type="text" id="lastName" required class="form-control mb-2 mx-2 ">
+                  <div class="alert alert-danger check-alert" role="alert">
+                    your last name should contain at least 3 letters!
+                  </div>
+                </div>
+
+              </div>
+              <label for="phone" class="form-label  m-2 text-capitalize">phone*</label>
+              <input type="text" id="phone" placeholder="Phone" required class="form-control mb-2 mx-2 ">
+              <div class="alert alert-danger check-alert" role="alert">
+                phone number should contain at least 11 numbers!
+              </div>
+              <label for="email" class="form-label  m-2 text-capitalize">email*</label>
+              <input type="text" id="email" placeholder="Email" required class="form-control mb-2 mx-2 ">
+              <div class="alert alert-danger check-alert" role="alert">
+                Please enter a valid email address!
+              </div>
+              <label for="country" class="form-label  m-2 text-capitalize">Country/region*</label>
+              <h6 id="country" class="country">Egypt</h6>
+              <div class="row">
+                <div class="col-xl-6">
+                  <label for="address" class="form-label  m-2 text-capitalize">street number*</label>
+                  <input type="text" id="address" required class="form-control mb-2 mx-2 ">
+                  <div class="alert alert-danger check-alert" role="alert">
+                    please enter your street number!
+                  </div>
+                </div>
+                <div class="col-xl-6">
+                  <label for="addressInfo" class="form-label  m-2 text-capitalize">more address information</label>
+                  <input type="text" placeholder="More Address Information" id="addressInfo" required class="form-control mb-2 mx-2 ">
+                  <div class="alert alert-danger check-alert" role="alert">
+                    please enter your address information!
+                  </div>
+                </div>
+              </div>
+              <label for="city" class="form-label  m-2 text-capitalize">city*</label>
+              <select class="form-select form-control" aria-label="Default select example" id="governorateSelection">
+                <option selected>select an option...</option>
+                <option>القاهره</option>
+                <option>اسكندريه</option>
+                <option>اسيوط</option>
+              </select>
+              <div class="alert alert-danger select-alert" role="alert">
+                please select your governorate!
+              </div>
+              <label for="postCode" class="form-label  m-2 text-capitalize">post Code(optional)</label>
+              <input type="text" id="postCode"  class="form-control mb-2 mx-2 ">
+              <h6 class="additional-info">additional information</h6>
+
+              <div class="mb-3">
+                <label for="orderNotes" class="form-label text-label">Order notes (optional)</label>
+                <textarea class="form-control" placeholder="Notes About Your Order, e.g. Special Notes For Delivery."
+                  id="orderNotes" rows="3"></textarea>
+              </div>
+            </form>
+          </div>
+          <div class="col-xl-5">
+            <div class="checkout-price" id="checkOutBody">
+              <p class="checkout-head">your order</p>
+<ul class="checkout-list">
+  <li class="checkout-title"><span>product</span> <span>subtotal</span></li>
+  <ul id="productList">
+  </ul>
+  <li><span>subtotal</span><span class="price-sign" id="subTotal"></span></li>
+  <li><span>shipping</span><span class="price-sign" id="shippingValue"></span></li>
+  <li><span>total</span><span class="price-sign" id="totalMoney"></span></li>
+</ul>
+<ul class="payment-list" id="paymentList">
+  <li>
+    <div class="form-check">
+      <input class=" form-check-input checkBox" checked  type="radio" value="cash" name="flexRadioDefault" id="checkBox1">
+      <label class="form-check-label" for="checkBox1">
+        cash on delivery
+      </label>
+      <h6 class="cash-on">Pay with cash upon delivery.</h6>
+    </div>
+  </li>
+  <li>
+    <div class="form-check d-flex align-items-center">
+      <input class=" form-check-input checkBox me-1"  type="radio" value="visa" name="flexRadioDefault" id="checkBox2">
+      <label class="form-check-label" for="checkBox2">
+        visa / mastercard
+      </label>
+      <img class="visa-img" src="./assets/img/visa_mastercard.png" alt="visa/mastercard">
+    </div>
+  </li>
+  <li>
+    <div class="form-check">
+      <input class=" form-check-input checkBox"  type="radio" value="installment" name="flexRadioDefault" id="checkBox3">
+      <label class="form-check-label" for="checkBox3">
+        تقسيط بدون فوائد
+      </label>
+      <img src="./assets/img/Sympl.png" alt="تقسيط بدون فوائد">
+    </div>
+  </li>
+</ul>
+<div class="form-check">
+  <input class="form-check-input" type="checkbox" id="terms">
+  <label class="form-check-label cash-on m-0" for="flexCheckDefault4">
+    I have read and agree to the website terms and conditions *
+  </label> 
+   <div class="alert alert-danger check-terms" role="alert">
+    please check that you have agree to the website terms and conditions!
+  </div>
+</div>
+
+<button class="check-btn order-btn" id="placeOrder">place order</button>
+<p class="privacy-note">Your personal data will be used to process your order, support your experience throughout this website, and for other purposes described in our <a href="privacy.html">privacy policy</a>.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+
+
+
+
+
+
+    </div>
+
+
+  </section>
+
+
+  <!-- end check out section -->
+
+
+
+
+
+
+
+
+<footer>
+  <div class="foot-text">
+    <div class="cash">
+      cash on <br />
+      delivery
+    </div>
+    <div class="copy-right">Copyright Dermatique © <strong>2020</strong></div>
+  </div>
+</footer>
+  <script src="./js/vendor/bootstrap.bundle.min.js"></script>
+  <script  src="js/js.js"></script>
+  <script src="js/logout.js"></script>
+  <script src="js/search.js"></script>
+  <script src="js/checkOut.js"></script>
+</body>
+
+
+</html>

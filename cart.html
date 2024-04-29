@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="" />
+  <meta name="keywords" content="" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+  <title>home</title>
+  <link rel="stylesheet" href="css/main pro 2.css" />
+</head>
+
+<body>
+  <div class="loader"></div>
+  <!-- start header -->
+  <header>
+
+    <nav class="navbar navbar-expand-lg d-flex justify-content-between align-items-center">
+      <div class="container">
+        <a class="navbar-brand header-brand" href="index.html"><img
+            src="assets/img/WhatsApp-Image-2020-08-24-at-2.26.42-PM (1).jpeg" alt="Dermatique"></a>
+
+      </div>
+    </nav>
+  </header>
+  <!-- end header -->
+  <!-- start cart section -->
+  
+  <div id="cartEmpty">
+
+  </div>
+  <section class="show py-5" id="cart"> 
+    <div class="container "> 
+       <div class="pages-menu d-flex justify-content-center">
+      <span><a class="menu-link active-link" href="cart.html">shopping cart <i class="fa-solid fa-chevron-right px-1"></i></a></span>
+      <span><a class="menu-link " href="check out.html">checkout details<i class="fa-solid fa-chevron-right px-1"></i></a> </span>
+      <span><button class="menu-link border-0" id="orderCompleted">order complete</button></span>
+     </div>
+      <div class="row py-5">
+        <div class="col-xl-7">
+          <table class="table cart-table ">
+            <thead>
+              <th class="product-title " >product</th>
+              <th class="product-price">price</th>
+              <th class="product-quantity">quantity</th>
+            </thead>
+            <tbody id="cartBody">
+  
+        </tbody>
+    
+
+
+
+        </table>
+        
+        </div>
+
+        <div class="col-xl-5" id="cartTotal">
+          
+        </div> 
+    
+      </div>
+             <div>
+          <a href="products.html" class="cart-btn" id="cartBtn"><i class="fa-solid fa-arrow-left"></i> continue shopping</a>
+        </div>
+    </div>
+    </div>
+
+  </section>
+  <!-- end cart section -->
+ <footer>
+    <div class="foot-text">
+      <div class="cash">
+        cash on <br />
+        delivery
+      </div>
+      <div class="copy-right">Copyright Dermatique © <strong>2023</strong>.All Prices Include VAT</div>
+    </div>
+  </footer>
+
+  <script src="./js/vendor/bootstrap.bundle.min.js"></script>
+ <script src="js/js.js"></script>
+  <script  src="js/cart.js"></script>
+  <script src="js/search.js"></script>
+</body>
+
+</html>
